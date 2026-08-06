@@ -20,4 +20,12 @@ My DSA practice solutions from LeetCode and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
