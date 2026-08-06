@@ -12,6 +12,7 @@ My DSA practice solutions from LeetCode and Codeforces
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,9 +24,15 @@ My DSA practice solutions from LeetCode and Codeforces
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
