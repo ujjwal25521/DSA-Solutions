@@ -12,11 +12,13 @@ My DSA practice solutions from LeetCode and Codeforces
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +37,8 @@ My DSA practice solutions from LeetCode and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
