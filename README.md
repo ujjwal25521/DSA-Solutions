@@ -51,6 +51,7 @@ My DSA practice solutions from LeetCode and Codeforces
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,5 +59,6 @@ My DSA practice solutions from LeetCode and Codeforces
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
