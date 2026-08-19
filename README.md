@@ -20,6 +20,7 @@ My DSA practice solutions from LeetCode and Codeforces
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ My DSA practice solutions from LeetCode and Codeforces
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0067-add-binary](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,12 @@ My DSA practice solutions from LeetCode and Codeforces
 | ------- | ------- |
 | [0050-powx-n](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/ujjwal25521/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
